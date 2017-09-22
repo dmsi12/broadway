@@ -42,3 +42,13 @@ h3 {
 .contact  p{
   font-size: 14px;
 }
+
+.footer {
+  background-color: dimgray;
+  color: white;
+
+}
+
+#copyright {
+  font-size: 11px;
+}
