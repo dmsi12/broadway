@@ -6,6 +6,8 @@
 .top {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   color: white;
 }
 
@@ -14,9 +16,11 @@ h1 {
   font-weight: bold;
 }
 
-.btn-nav {
+li,
+ a{
   font-size: 18px;
   color: white;
+  list-style: none;
 }
 
 h3 {
@@ -31,7 +35,8 @@ h3 {
 .designed {
   color: white;
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
-
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .contact  p{
